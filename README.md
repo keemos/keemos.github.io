@@ -12,7 +12,7 @@
 	</head>
 
 	<body>
-		<h1>All about Rabbits!!!!!</h1>
+		<h1>All about Rabbits!!!!!!!!!!</h1>
 		<img src="rabbit.png" alt = "Rabbit with lop ears in the barn" width = "205">
 		
 		<h2>Why rabbits make great pets</h2>
