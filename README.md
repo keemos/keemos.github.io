@@ -13,7 +13,7 @@
 
 	<body>
 		<h1>All about Rabbits!!!!!</h1>
-		<img src="https://www.kasandbox.org/programming-images/animals/rabbit.png" alt = "Rabbit with lop ears in the barn" width = "205">
+		<img src="rabbit.png" alt = "Rabbit with lop ears in the barn" width = "205">
 		
 		<h2>Why rabbits make great pets</h2>
 		<ul>
